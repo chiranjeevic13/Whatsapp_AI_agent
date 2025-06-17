@@ -136,10 +136,10 @@ We welcome contributions! Please follow these steps:
 ## 💬 Support
 
 - 📧 Email: chiruc1305@gmail.com
-- 💻 GitHub Issues: [Create an issue](https://github.com/yourusername/Whatsapp_AI_agent/issues)
+- 💻 GitHub Issues: [Create an issue](https://github.com/chiranjeevic13/Whatsapp_AI_agent/issues)
 
 ---
 
 <div align="center">
-Made with ❤️ by Your Name
+Made with ❤️ by CHiranjeevi C
 </div>
