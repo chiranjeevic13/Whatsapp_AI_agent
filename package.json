@@ -1,0 +1,26 @@
+{
+    "name": "lead-qualification-agent",
+    "version": "1.0.0",
+    "description": "WhatsApp-like AI agent for lead qualification",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "keywords": ["lead qualification", "ai", "chatbot", "whatsapp"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2",
+      "socket.io": "^4.6.1",
+      "@langchain/core": "^0.1.48",
+      "@langchain/community": "^0.0.34",
+      "node-nlp": "^4.27.0",
+      "dotenv": "^16.4.5",
+      "uuid": "^9.0.1",
+      "moment": "^2.30.1"
+    },
+    "devDependencies": {
+      "nodemon": "^3.1.0"
+    }
+  }

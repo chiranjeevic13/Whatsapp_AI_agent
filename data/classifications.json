@@ -1,0 +1,945 @@
+[
+  {
+    "id": "f28fbd52-76e2-4fd0-8981-05ab77e18e1f",
+    "timestamp": "2025-06-17T17:22:54.086Z",
+    "lead": {
+      "name": "chiru c",
+      "phone": "+917995678932",
+      "source": "Website",
+      "initialMessage": "I want to buying property"
+    },
+    "industry": "real_estate",
+    "status": "Cold",
+    "confidence": 1,
+    "reasons": [
+      "Just browsing, no clear intent"
+    ],
+    "metadata": {
+      "intent": "browsing",
+      "location": "Pune",
+      "propertyType": "Villa",
+      "budget": 3
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi chiru c! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:22:28.650Z"
+      },
+      {
+        "sender": "user",
+        "text": "I want to buying property",
+        "timestamp": "2025-06-17T17:22:28.650Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:22:29.498Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:22:38.889Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:22:38.956Z"
+      },
+      {
+        "sender": "user",
+        "text": "Villa",
+        "timestamp": "2025-06-17T17:22:47.689Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Villa?",
+        "timestamp": "2025-06-17T17:22:47.730Z"
+      },
+      {
+        "sender": "user",
+        "text": "3 lakh",
+        "timestamp": "2025-06-17T17:22:53.916Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:22:54.070Z"
+      }
+    ]
+  },
+  {
+    "id": "f28fbd52-76e2-4fd0-8981-05ab77e18e1f",
+    "timestamp": "2025-06-17T17:23:16.043Z",
+    "lead": {
+      "name": "chiru c",
+      "phone": "+917995678932",
+      "source": "Website",
+      "initialMessage": "I want to buying property"
+    },
+    "industry": "real_estate",
+    "status": "Cold",
+    "confidence": 1,
+    "reasons": [
+      "Just browsing, no clear intent"
+    ],
+    "metadata": {
+      "intent": "browsing",
+      "location": "Pune",
+      "propertyType": "Villa",
+      "budget": 3,
+      "timeline": 3
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi chiru c! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:22:28.650Z"
+      },
+      {
+        "sender": "user",
+        "text": "I want to buying property",
+        "timestamp": "2025-06-17T17:22:28.650Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:22:29.498Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:22:38.889Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:22:38.956Z"
+      },
+      {
+        "sender": "user",
+        "text": "Villa",
+        "timestamp": "2025-06-17T17:22:47.689Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Villa?",
+        "timestamp": "2025-06-17T17:22:47.730Z"
+      },
+      {
+        "sender": "user",
+        "text": "3 lakh",
+        "timestamp": "2025-06-17T17:22:53.916Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:22:54.070Z"
+      },
+      {
+        "sender": "user",
+        "text": "within 3 months",
+        "timestamp": "2025-06-17T17:23:15.888Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this property for your personal use or as an investment?",
+        "timestamp": "2025-06-17T17:23:16.042Z"
+      }
+    ]
+  },
+  {
+    "id": "f28fbd52-76e2-4fd0-8981-05ab77e18e1f",
+    "timestamp": "2025-06-17T17:23:31.156Z",
+    "lead": {
+      "name": "chiru c",
+      "phone": "+917995678932",
+      "source": "Website",
+      "initialMessage": "I want to buying property"
+    },
+    "industry": "real_estate",
+    "status": "Cold",
+    "confidence": 1,
+    "reasons": [
+      "Just browsing, no clear intent"
+    ],
+    "metadata": {
+      "intent": "browsing",
+      "location": "Pune",
+      "propertyType": "Villa",
+      "budget": 3,
+      "timeline": 3,
+      "purpose": "Personal"
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi chiru c! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:22:28.650Z"
+      },
+      {
+        "sender": "user",
+        "text": "I want to buying property",
+        "timestamp": "2025-06-17T17:22:28.650Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:22:29.498Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:22:38.889Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:22:38.956Z"
+      },
+      {
+        "sender": "user",
+        "text": "Villa",
+        "timestamp": "2025-06-17T17:22:47.689Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Villa?",
+        "timestamp": "2025-06-17T17:22:47.730Z"
+      },
+      {
+        "sender": "user",
+        "text": "3 lakh",
+        "timestamp": "2025-06-17T17:22:53.916Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:22:54.070Z"
+      },
+      {
+        "sender": "user",
+        "text": "within 3 months",
+        "timestamp": "2025-06-17T17:23:15.888Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this property for your personal use or as an investment?",
+        "timestamp": "2025-06-17T17:23:16.042Z"
+      },
+      {
+        "sender": "user",
+        "text": "personal use",
+        "timestamp": "2025-06-17T17:23:31.097Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:23:31.155Z"
+      }
+    ]
+  },
+  {
+    "id": "e728b504-1c9d-4de7-8932-8e468a4c0ac0",
+    "timestamp": "2025-06-17T17:29:31.145Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598765898",
+      "source": "Direct",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Invalid",
+    "confidence": 0.9,
+    "reasons": [
+      "Contains gibberish or test messages"
+    ],
+    "metadata": {
+      "intent": "rent",
+      "location": "Bangalore",
+      "propertyType": "Flat"
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:28:45.893Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:28:45.894Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:28:46.903Z"
+      },
+      {
+        "sender": "user",
+        "text": "i'm looking at bengaluru",
+        "timestamp": "2025-06-17T17:29:05.428Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Bangalore? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:29:05.511Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:29:17.157Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:29:17.214Z"
+      },
+      {
+        "sender": "user",
+        "text": "200000",
+        "timestamp": "2025-06-17T17:29:31.009Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:29:31.141Z"
+      }
+    ]
+  },
+  {
+    "id": "e728b504-1c9d-4de7-8932-8e468a4c0ac0",
+    "timestamp": "2025-06-17T17:29:57.366Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598765898",
+      "source": "Direct",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Invalid",
+    "confidence": 0.9,
+    "reasons": [
+      "Contains gibberish or test messages"
+    ],
+    "metadata": {
+      "intent": "buy",
+      "location": "Bangalore",
+      "propertyType": "2BHK"
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:28:45.893Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:28:45.894Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:28:46.903Z"
+      },
+      {
+        "sender": "user",
+        "text": "i'm looking at bengaluru",
+        "timestamp": "2025-06-17T17:29:05.428Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Bangalore? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:29:05.511Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:29:17.157Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:29:17.214Z"
+      },
+      {
+        "sender": "user",
+        "text": "200000",
+        "timestamp": "2025-06-17T17:29:31.009Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:29:31.141Z"
+      },
+      {
+        "sender": "user",
+        "text": "i'm looking 2BHK flats",
+        "timestamp": "2025-06-17T17:29:57.156Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the 2BHK?",
+        "timestamp": "2025-06-17T17:29:57.366Z"
+      }
+    ]
+  },
+  {
+    "id": "e728b504-1c9d-4de7-8932-8e468a4c0ac0",
+    "timestamp": "2025-06-17T17:30:07.635Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598765898",
+      "source": "Direct",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Invalid",
+    "confidence": 0.9,
+    "reasons": [
+      "Contains gibberish or test messages"
+    ],
+    "metadata": {
+      "intent": "buy",
+      "location": "Bangalore",
+      "propertyType": "2BHK",
+      "budget": 2
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:28:45.893Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:28:45.894Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:28:46.903Z"
+      },
+      {
+        "sender": "user",
+        "text": "i'm looking at bengaluru",
+        "timestamp": "2025-06-17T17:29:05.428Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Bangalore? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:29:05.511Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:29:17.157Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:29:17.214Z"
+      },
+      {
+        "sender": "user",
+        "text": "200000",
+        "timestamp": "2025-06-17T17:29:31.009Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:29:31.141Z"
+      },
+      {
+        "sender": "user",
+        "text": "i'm looking 2BHK flats",
+        "timestamp": "2025-06-17T17:29:57.156Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the 2BHK?",
+        "timestamp": "2025-06-17T17:29:57.366Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakh",
+        "timestamp": "2025-06-17T17:30:07.557Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:30:07.634Z"
+      }
+    ]
+  },
+  {
+    "id": "3f6aa9fc-42a4-43ed-bd6f-f3a66e3253e2",
+    "timestamp": "2025-06-17T17:34:53.662Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598988990",
+      "source": "Referral",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Hot",
+    "confidence": 1,
+    "reasons": [
+      "Clear budget: 2",
+      "Specific location: Pune",
+      "Specific property type: Flat"
+    ],
+    "metadata": {
+      "intent": "rent",
+      "location": "Pune",
+      "propertyType": "Flat",
+      "budget": 2
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:34:28.351Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:34:35.893Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:34:35.992Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:34:45.161Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:34:45.206Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakhs",
+        "timestamp": "2025-06-17T17:34:53.470Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:34:53.660Z"
+      }
+    ]
+  },
+  {
+    "id": "3f6aa9fc-42a4-43ed-bd6f-f3a66e3253e2",
+    "timestamp": "2025-06-17T17:35:17.061Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598988990",
+      "source": "Referral",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Hot",
+    "confidence": 1,
+    "reasons": [
+      "Clear budget: 2",
+      "Specific location: Pune",
+      "Urgent timeline: 5 months",
+      "Specific property type: Flat"
+    ],
+    "metadata": {
+      "intent": "rent",
+      "location": "Pune",
+      "propertyType": "Flat",
+      "budget": 2,
+      "timeline": 5
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:34:28.351Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:34:35.893Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:34:35.992Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:34:45.161Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:34:45.206Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakhs",
+        "timestamp": "2025-06-17T17:34:53.470Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:34:53.660Z"
+      },
+      {
+        "sender": "user",
+        "text": "within 5 months",
+        "timestamp": "2025-06-17T17:35:16.907Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this property for your personal use or as an investment?",
+        "timestamp": "2025-06-17T17:35:17.059Z"
+      }
+    ]
+  },
+  {
+    "id": "3f6aa9fc-42a4-43ed-bd6f-f3a66e3253e2",
+    "timestamp": "2025-06-17T17:35:28.453Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598988990",
+      "source": "Referral",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Hot",
+    "confidence": 1,
+    "reasons": [
+      "Clear budget: 2",
+      "Specific location: Pune",
+      "Urgent timeline: 5 months",
+      "Specific property type: Flat"
+    ],
+    "metadata": {
+      "intent": "rent",
+      "location": "Pune",
+      "propertyType": "Flat",
+      "budget": 2,
+      "timeline": 5,
+      "purpose": "Personal"
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:34:28.351Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:34:35.893Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:34:35.992Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:34:45.161Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:34:45.206Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakhs",
+        "timestamp": "2025-06-17T17:34:53.470Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:34:53.660Z"
+      },
+      {
+        "sender": "user",
+        "text": "within 5 months",
+        "timestamp": "2025-06-17T17:35:16.907Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this property for your personal use or as an investment?",
+        "timestamp": "2025-06-17T17:35:17.059Z"
+      },
+      {
+        "sender": "user",
+        "text": "personal use",
+        "timestamp": "2025-06-17T17:35:28.400Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:35:28.452Z"
+      }
+    ]
+  },
+  {
+    "id": "3f6aa9fc-42a4-43ed-bd6f-f3a66e3253e2",
+    "timestamp": "2025-06-17T17:36:01.793Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598988990",
+      "source": "Referral",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Hot",
+    "confidence": 1,
+    "reasons": [
+      "Clear budget: 2",
+      "Specific location: Pune",
+      "Urgent timeline: 5 months",
+      "Specific property type: 2BHK",
+      "Clear buying intent"
+    ],
+    "metadata": {
+      "intent": "buy",
+      "location": "Pune",
+      "propertyType": "2BHK",
+      "budget": 2,
+      "timeline": 5,
+      "purpose": "Personal"
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:34:28.351Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:34:35.893Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:34:35.992Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:34:45.161Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:34:45.206Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakhs",
+        "timestamp": "2025-06-17T17:34:53.470Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:34:53.660Z"
+      },
+      {
+        "sender": "user",
+        "text": "within 5 months",
+        "timestamp": "2025-06-17T17:35:16.907Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this property for your personal use or as an investment?",
+        "timestamp": "2025-06-17T17:35:17.059Z"
+      },
+      {
+        "sender": "user",
+        "text": "personal use",
+        "timestamp": "2025-06-17T17:35:28.400Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:35:28.452Z"
+      },
+      {
+        "sender": "user",
+        "text": "property should be 2BHK and surrounded by families",
+        "timestamp": "2025-06-17T17:36:01.640Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the 2BHK?",
+        "timestamp": "2025-06-17T17:36:01.791Z"
+      }
+    ]
+  },
+  {
+    "id": "3f6aa9fc-42a4-43ed-bd6f-f3a66e3253e2",
+    "timestamp": "2025-06-17T17:36:14.649Z",
+    "lead": {
+      "name": "Chiranjeevi C",
+      "phone": "9598988990",
+      "source": "Referral",
+      "initialMessage": "I'm interested in buying property"
+    },
+    "industry": "real_estate",
+    "status": "Hot",
+    "confidence": 1,
+    "reasons": [
+      "Clear budget: 2",
+      "Specific location: Pune",
+      "Urgent timeline: 5 months",
+      "Specific property type: 2BHK",
+      "Clear buying intent"
+    ],
+    "metadata": {
+      "intent": "buy",
+      "location": "Pune",
+      "propertyType": "2BHK",
+      "budget": 2,
+      "timeline": 5,
+      "purpose": "Personal"
+    },
+    "transcript": [
+      {
+        "sender": "bot",
+        "text": "Hi Chiranjeevi C! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm interested in buying property",
+        "timestamp": "2025-06-17T17:34:27.312Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Which city or location are you interested in for your property search?",
+        "timestamp": "2025-06-17T17:34:28.351Z"
+      },
+      {
+        "sender": "user",
+        "text": "I'm looking in pune",
+        "timestamp": "2025-06-17T17:34:35.893Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What type of property are you looking for in Pune? (e.g., apartment, villa, plot)",
+        "timestamp": "2025-06-17T17:34:35.992Z"
+      },
+      {
+        "sender": "user",
+        "text": "apartment",
+        "timestamp": "2025-06-17T17:34:45.161Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the Flat?",
+        "timestamp": "2025-06-17T17:34:45.206Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakhs",
+        "timestamp": "2025-06-17T17:34:53.470Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:34:53.660Z"
+      },
+      {
+        "sender": "user",
+        "text": "within 5 months",
+        "timestamp": "2025-06-17T17:35:16.907Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Is this property for your personal use or as an investment?",
+        "timestamp": "2025-06-17T17:35:17.059Z"
+      },
+      {
+        "sender": "user",
+        "text": "personal use",
+        "timestamp": "2025-06-17T17:35:28.400Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Could you tell me more about your property requirements? I'm here to help find the perfect match for you.",
+        "timestamp": "2025-06-17T17:35:28.452Z"
+      },
+      {
+        "sender": "user",
+        "text": "property should be 2BHK and surrounded by families",
+        "timestamp": "2025-06-17T17:36:01.640Z"
+      },
+      {
+        "sender": "bot",
+        "text": "What's your budget range for the 2BHK?",
+        "timestamp": "2025-06-17T17:36:01.791Z"
+      },
+      {
+        "sender": "user",
+        "text": "2 lakhs",
+        "timestamp": "2025-06-17T17:36:14.570Z"
+      },
+      {
+        "sender": "bot",
+        "text": "Great! What's your timeline for moving in or making the purchase?",
+        "timestamp": "2025-06-17T17:36:14.648Z"
+      }
+    ]
+  }
+]

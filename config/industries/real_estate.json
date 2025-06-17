@@ -1,0 +1,40 @@
+{
+    "id": "real_estate",
+    "name": "Real Estate",
+    "description": "Real estate industry focused on property sales and rentals",
+    "greetingTemplates": [
+      "Hi {name}! Thanks for reaching out. I'm your GrowEasy real estate assistant. Could you share which city/location you're looking for?",
+      "Hello {name}! Welcome to GrowEasy Realtors. How can I assist you with your property search today?",
+      "Hi {name}! I'm your GrowEasy property consultant. What kind of property are you looking for?"
+    ],
+    "qualifyingAreas": [
+      "location",
+      "budget",
+      "property type",
+      "timeline",
+      "purpose (investment or personal use)"
+    ],
+    "classification": {
+      "hotCriteria": {
+        "minBudget": 50,
+        "urgentTimeline": 6,
+        "clearIntent": true,
+        "specificLocation": true
+      },
+      "coldCriteria": {
+        "vagueRequirements": true,
+        "distantTimeline": 12,
+        "browsingIntent": true
+      },
+      "invalidCriteria": {
+        "gibberish": true,
+        "unresponsive": true,
+        "fakeContact": true
+      }
+    },
+    "fallbackMessages": [
+      "I haven't heard back from you. Are you still interested in finding your dream property?",
+      "Just checking in - I'm still here to help with your property search if you have any questions.",
+      "Would you like me to send you some property options based on what we've discussed so far?"
+    ]
+  }

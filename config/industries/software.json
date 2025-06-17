@@ -1,0 +1,40 @@
+{
+    "id": "software",
+    "name": "Software Solutions",
+    "description": "B2B software solutions provider for business automation",
+    "greetingTemplates": [
+      "Hi {name}! I'm your GrowEasy software solutions consultant. What kind of business challenges are you looking to solve?",
+      "Hello {name}! Thanks for your interest in our software solutions. Could you tell me about your company's needs?",
+      "Welcome {name}! I'm here to help find the right software solution for your business. What industry are you in?"
+    ],
+    "qualifyingAreas": [
+      "company size",
+      "budget",
+      "timeline",
+      "decision-making authority",
+      "current software"
+    ],
+    "classification": {
+      "hotCriteria": {
+        "minBudget": 10000,
+        "urgentTimeline": 3,
+        "decisionMaker": true,
+        "minCompanySize": 50
+      },
+      "coldCriteria": {
+        "vagueRequirements": true,
+        "distantTimeline": 6,
+        "browsingIntent": true
+      },
+      "invalidCriteria": {
+        "gibberish": true,
+        "unresponsive": true,
+        "fakeContact": true
+      }
+    },
+    "fallbackMessages": [
+      "I haven't heard back from you. Would you like to schedule a demo of our software?",
+      "Just checking in - I'm still here to help with your software requirements if you have any questions.",
+      "Would you like me to send you some case studies of how we've helped similar businesses?"
+    ]
+  }

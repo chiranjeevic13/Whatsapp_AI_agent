@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lead Qualification Chat</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <div class="sidebar">
+            <div class="logo">
+                <h1>GrowEasy</h1>
+                <p>Lead Qualifier</p>
+            </div>
+            
+            <div class="industry-selector">
+                <label for="industry">Industry:</label>
+                <select id="industry">
+                    <option value="real_estate">Real Estate</option>
+                    <option value="software">Software</option>
+                </select>
+            </div>
+            
+            <div class="lead-form">
+                <h2>New Lead</h2>
+                <form id="lead-form">
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone">Phone:</label>
+                        <input type="text" id="phone">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="source">Source:</label>
+                        <select id="source">
+                            <option value="Website">Website</option>
+                            <option value="Facebook">Facebook</option>
+                            <option value="Referral">Referral</option>
+                            <option value="Direct">Direct</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="initial-message">Initial Message (optional):</label>
+                        <textarea id="initial-message"></textarea>
+                    </div>
+                    
+                    <button type="submit" class="btn">Start Chat</button>
+                </form>
+            </div>
+            
+            <div class="classifications-section">
+                <h2>Recent Classifications</h2>
+                <div id="classifications-list">
+                    <!-- Classifications will be loaded here -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="chat-container">
+            <div class="chat-header">
+                <h2>Chat with <span id="lead-name">Lead</span></h2>
+                <div id="classification-badge" class="hidden">
+                    <span id="classification-status">Unclassified</span>
+                </div>
+            </div>
+            
+            <div class="chat-messages" id="chat-messages">
+                <!-- Messages will appear here -->
+                <div class="chat-placeholder">
+                    <p>Start a new conversation by entering lead details on the left</p>
+                </div>
+            </div>
+            
+            <div class="chat-input hidden">
+                <form id="message-form">
+                    <input type="text" id="message" placeholder="Type your message..." required>
+                    <button type="submit" class="btn">Send</button>
+                </form>
+            </div>
+            
+            <div class="metadata-panel">
+                <h3>Extracted Information</h3>
+                <div id="metadata-list">
+                    <!-- Metadata will appear here -->
+                    <p class="metadata-placeholder">No data extracted yet</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/chat.js"></script>
+</body>
+</html>
